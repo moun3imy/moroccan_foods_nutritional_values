@@ -135,4 +135,3 @@ id,food(labels),measure,calories,proteins,fat,carbs,notes
 134, [smen/fermented butter], g, 717, 0.9, 81, 0.1, ⓘ Values provided for 100g (Moroccan fermented butter)
 135, [rfissa bread/msemen kbir], u, 250, 6, 10, 35, ⓘ Values provided for 1 large piece (used in rfissa)
 136, [cheese spread/kiri], u, 40, 1.5, 3.5, 1, ⓘ Values provided for 1 portion (20g)
-137, [pomegranate/romane/ruman], u, 234, 4.7, 3.3, 53, ⓘ Values provided for 1 whole pomegranate (~280g)
