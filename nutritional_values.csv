@@ -1,0 +1,107 @@
+id,food(labels),measure,calories,proteins,fat,carbs,notes
+1,  [spaghetti], g, 361, 12, 2, 72, ⓘ Values provided for 100g (dry weight).
+2,  [tuna/thon], g, 229, 11, 18, 5.5, ⓘ Values provided for 100g (canned in oil-drained).
+3,  [olive oil/zit l3oud/zit zitoun], ml, 884, 0, 100, 0, ⓘ Values provided for 100ml (pure fat).
+4,  [oil/zit], ml, 884, 0, 100, 0, ⓘ Values provided for 100ml (generic vegetable oil).
+5,  [tomato/maticha], s, 25, 1.2, 0.2, 5, ⓘ Values provided for 1 piece (medium-sized tomato).
+6,  [meat/l7em 7mer], g, 250, 26, 17, 0, ⓘ Values provided for 100g (beef - average fat content).
+7,  [nouilles], g, 138, 4.5, 2.5, 25, ⓘ Values provided for 100g (instant noodles - dry).
+8,  [batata kbira/potato/btata], s, 200, 4, 0.2, 45, ⓘ Values provided for 1 piece (large potato).
+9,  [brocoli], g, 34, 2.8, 0.4, 6.6, ⓘ Values provided for 100g (raw).
+10, [khizzo/zrodya/carrot], s, 52, 1.2, 0.3, 12, ⓘ Values provided for 1 piece (large carrot).
+11, [frmaj edam/edam cheese], g, 357, 25, 28, 1.4, ⓘ Values provided for 100g.
+12, [egg/bid], u, 78, 6.5, 5.5, 0.6, ⓘ Values provided for 1 unit (large egg- ~60g).
+13, [tarf khobz/slice of bread/part pain], s, 120, 4, 1, 24, ⓘ Values provided for 1 slice (standard sliced loaf).
+14, [toum/garlic], u, 4, 0.2, 0, 1, ⓘ Values provided for 1 clove.
+15, [djaj/chicken], g, 165, 31, 3.6, 0, ⓘ Values provided for 100g (breast - skinless - raw).
+16, [couscous/keskso], s, 350, 10, 8, 60, ⓘ Values provided for 1 serving (cooked with oil/butter).
+17, [tajine/djaj mhamer], s, 450, 25, 20, 35, ⓘ Values provided for 1 serving (chicken with veggies/sauce).
+18, [rfissa/rdid], s, 520, 30, 22, 45, ⓘ Values provided for 1 serving.
+19, [pastilla/bastilla], s, 580, 25, 35, 40, ⓘ Values provided for 1 serving (piece).
+20, [tangia/marrakchi], s, 600, 35, 40, 15, ⓘ Values provided for 1 serving.
+21, [harira/hrira], s, 280, 12, 8, 40, ⓘ Values provided for 1 bowl/serving.
+22, [chebakia/mkharqa/zlabia], u, 120, 2, 6, 15, ⓘ Values provided for 1 piece.
+23, [msemmen/rghayef/msmna], u, 180, 4, 8, 22, ⓘ Values provided for 1 piece (square).
+24, [harcha], u, 150, 3, 5, 24, ⓘ Values provided for 1 piece.
+25, [baghrir/khringo], u, 130, 4, 3, 24, ⓘ Values provided for 1 piece.
+26, [bissara], s, 220, 12, 5, 35, ⓘ Values provided for 1 serving (bowl - with oil).
+27, [zaalouk], s, 120, 3, 7, 14, ⓘ Values provided for 1 serving (eggplant & tomato salad).
+28, [taktouka], s, 110, 2, 8, 10, ⓘ Values provided for 1 serving.
+29, [mqualli/djaj mqualli], s, 420, 28, 25, 18, ⓘ Values provided for 1 serving.
+30, [kefta/kufta/kfta], g, 280, 18, 22, 5, ⓘ Values provided for 100g (raw meat mixture).
+31, [merguez], u, 120, 7, 10, 1, ⓘ Values provided for 1 unit (sausage).
+32, [sardine/sardina], g, 208, 25, 11, 0, ⓘ Values provided for 100g (fresh - raw).
+33, [calamar], g, 175, 30, 4, 5, ⓘ Values provided for 100g (raw).
+34, [crevette], g, 85, 18, 1, 0, ⓘ Values provided for 100g (shrimp - raw).
+35, [sfenj/donuts], u, 200, 4, 10, 23, ⓘ Values provided for 1 piece.
+36, [briwat], u, 85, 2, 5, 8, ⓘ Values provided for 1 piece (small triangle).
+37, [samoussa/sambousa], u, 70, 2, 4, 7, ⓘ Values provided for 1 piece.
+38, [amlou], g, 600, 8, 55, 20, ⓘ Values provided for 100g (spread).
+39, [zitoun/olive], u, 5, 0.1, 0.5, 0.2, ⓘ Values provided for 1 olive (medium).
+40, [lben/rayeb], ml, 45, 3, 2, 4, ⓘ Values provided for 100ml (fermented buttermilk).
+41, [mango/jawafa], u, 120, 1, 0.5, 28, ⓘ Values provided for 1 piece (whole mango).
+42, [banane/banana], u, 105, 1.3, 0.4, 27, ⓘ Values provided for 1 unit (medium).
+43, [tfa7/apple/pomme], u, 95, 0.5, 0.3, 25, ⓘ Values provided for 1 unit (medium).
+44, [limon/citron], u, 20, 0.6, 0.2, 6, ⓘ Values provided for 1 fruit (lemon).
+45, [octopus], g, 140, 25, 2, 4, ⓘ Values provided for 100g (raw).
+46, [roz/rice], g, 130, 2.7, 0.3, 28, ⓘ Values provided for 100g (cooked).
+47, [loubia/white beans], s, 215, 14, 1, 40, ⓘ Values provided for 1 serving (cooked in sauce).
+48, [chorba/soup], s, 180, 8, 6, 22, ⓘ Values provided for 1 bowl/serving.
+49, [chedar], g, 404, 25, 33, 1.3, ⓘ Values provided for 100g (cheddar cheese).
+50, [mozzarella/mozarella/jbn pizza], g, 280, 28, 17, 3, ⓘ Values provided for 100g.
+51, [champignon/mushroom/fonghi], g, 22, 3.1, 0.3, 3.3, ⓘ Values provided for 100g (raw).
+52, [barba], g, 28, 0.9, 0.1, 6.4, ⓘ Values provided for 100g (turnip/beet? likely beetroot).
+53, [khyar/cucumber/concombre], g, 15, 0.7, 0.1, 3.6, ⓘ Values provided for 100g (raw).
+54, [maize/corn/dra/mais], g, 86, 3.2, 1.2, 19, ⓘ Values provided for 100g (cooked/ canned).
+55, [milk/lait/hlib/7lib], ml, 42, 3.4, 1, 5, ⓘ Values provided for 100ml (semi-skimmed).
+56, [tea/atay/the], ml, 33, 0, 0, 8, ⓘ Values provided for 100ml (with sugar).
+57, [dates/tmar/tmer/dattes], u, 23, 0.2, 0.03, 6, ⓘ Values provided for 1 date (deglet type).
+58, [quirit], u, 39, 1.5, 3.3, 1, ⓘ Values provided for 1 unit (la vache qui rit).
+59, [khbza/whole bread/full loaf], u, 397, 13.5, 6, 67.5, ⓘ Values provided for 1 whole loaf (Moroccan bread)
+60, [danone/danone sghir/muscly], u, 129, 6, 6, 12.6, ⓘ Values provided for 1 muscly danone
+61, [briwa/briouat/briouate], u, 85, 2, 5, 8, Small filled pastry 1 piece
+62, [ma9rot/mqrot/makrout], u, 150, 2, 8, 20, Semolina date cookie diamond shape
+63, [fe99as/fqqas/fekkas], u, 60, 2, 2, 9, Hard twice-baked biscotti-like cookie
+64, [9hwa/qhwa/coffee], ml, 2, 0.1, 0, 0.3, Black coffee per 100ml no sugar
+65, [foul/fava beans/fèves], s, 200, 13, 2, 35, Bowl of cooked fava beans
+66, [bou3wid/pear/poire], u, 95, 0.5, 0.2, 25, One medium pear
+67, [butter/zebda/beurre], g, 717, 0.9, 81, 0.1, Butter per 100g
+68, [confiture/jam/mraba], g, 250, 0.3, 0.1, 62, Fruit jam preserves per 100g
+69, [grga3/walnut/noyer], u, 26, 0.6, 2.6, 0.5, One whole walnut kernel
+70, [bnd9/bniouin/peanuts], g, 567, 26, 49, 16, Peanuts per 100g
+71, [chia seeds/bodor chia], g, 486, 16.5, 31, 42, ⓘ Values provided for 100g (dried seeds)
+72, [zrri3a k7la/sunflower seeds/zrri3a], g, 584, 21, 51, 20, ⓘ Values provided for 100g (sunflower seeds)
+73, [zrri3a bida/pumpkin seeds], g, 559, 30, 49, 11, ⓘ Values provided for 100g (pumpkin seeds)
+74, [orange/limon hlou/navil], u, 62, 1.2, 0.2, 15, ⓘ Values provided for 1 unit (medium orange - ~130g)
+75, [jus orange industriel/orange juice/3assir ltchin], ml, 45, 0.7, 0.1, 11, ⓘ Values provided for 100ml (industrial orange juice with added sugar)
+76, [turkey meat/dinde/bibi], g, 135, 30, 1, 0, ⓘ Values provided for 100g (turkey breast - skinless)
+77, [avocado/afokado/avoca], u, 240, 3, 22, 12, ⓘ Values provided for 1 unit (medium avocado - ~200g)
+78, [strawberry/fraise/farawla/friz], u, 4, 0.1, 0, 1, ⓘ Values provided for 1 unit (medium strawberry - ~12g)
+79, [indomi],s, 380, 7, 17, 49, ⓘ Values provided for 1 serving of indomi of 80g
+80, [espresso], u, 5, 0.2, 0.1, 0.7, ⓘ Values provided for 1 small cup (30ml - 70% robusta 30% arabica blend)
+81, [kbda 3jmi/kbda 3jl/cow liver/foie de veau], g, 135, 20, 3.6, 2.5, ⓘ Values provided for 100g (raw veal liver)
+82, [kbda ghnmi/lamb liver/foie d'agneau], g, 139, 21, 4.2, 1.8, ⓘ Values provided for 100g (raw lamb liver)
+83, [3sel/honey/miel], g, 304, 0.3, 0, 82, ⓘ Values provided for 100g (pure honey)
+84, [slou/sellou], g, 450, 10, 25, 50, ⓘ Values provided for 100g (Moroccan roasted flour and nut mixture)
+85, [madlen/madeleine/muffin/madlina], u, 120, 2, 6, 15, ⓘ Values provided for 1 piece (small madeleine cake)
+86, [jbn/fromage/cheese/jben], g, 300, 20, 24, 1.5, ⓘ Values provided for 100g (generic semi-hard cheese)
+87, [choux fleurs/cauliflower/chiwer/chiflor], g, 25, 2, 0.3, 5, ⓘ Values provided for 100g (raw cauliflower)
+88, [courjette/zucchini/courgette/gr3a], g, 17, 1.2, 0.3, 3.1, ⓘ Values provided for 100g (raw zucchini)
+89, [saucisse/sausage], u, 120, 7, 10, 2, ⓘ Values provided for 1 medium sausage (50-60g)
+90, [perly], u, 78, 6.5, 2.4, 7.5,  ⓘ Values provided for 1 perly danone(80g)
+91, [cappuccino/kabouchino], s, 84, 4, 4, 8, ⓘ Values provided for 1 serving (200ml - espresso with steamed milk and foam)
+92, [panga/basa/pangasius], g, 84, 15, 2.5, 0, ⓘ Values provided for 100g (raw fillet)
+93, [lettuce/salade verte/khass], g, 15, 1.4, 0.2, 2.9, ⓘ Values provided for 100g (raw - romaine/iceberg)
+94, [quinoa], g, 120, 4.1, 1.9, 21, ⓘ Values provided for 100g (cooked)
+95, [thyme/zaatar], g, 276, 9, 7, 64, ⓘ Values provided for 100g (dried herb - used in small amounts)
+96, [cherry tomatoes/tomato cerise], u, 3, 0.2, 0.03, 0.7, ⓘ Values provided for 1 piece (small - ~15g)
+97, [surimi/krab sticks], g, 95, 8, 1, 13, ⓘ Values provided for 100g (imitation crab)
+98, [green seeds/peas/petit pois/jelbana], g, 81, 5.4, 0.4, 14, ⓘ Values provided for 100g (cooked)
+99, [chicken thighs/djaj fkhad], g, 177, 24, 9, 0, ⓘ Values provided for 100g (skinless - boneless - cooked)
+100, [onions/lbsl/oignon/bsla], g, 40, 1.1, 0.1, 9, ⓘ Values provided for 100g (raw)
+101, [parsley/maadnous/persil/m3dnous], g, 36, 3, 0.8, 6, ⓘ Values provided for 100g (fresh)
+102, [sole fish/samiya/sol], g, 91, 19, 1.2, 0, ⓘ Values provided for 100g (raw fillet)
+103, [choufan/avoine/oat], g, 389, 16.9, 6.9, 66, ⓘ Values provided for 100g (rolled oats - dry)
+104,[pizza dough/pizza khbza moyenne],s, 398, 14, 7.4, 69, ⓘ Values provided for a serving of 140g of pizza dough- as the one selled in supermarkets
+105, [sauce barbecue], g, 196, 0.65, 0.27, 47.8, ⓘ Values provided for 100g of Barbecue sauce
+106, [sauce tomate ketchup/ketchup], g, 122, 0.1, 28, 1, ⓘ Values provided for 100g of ketchup
