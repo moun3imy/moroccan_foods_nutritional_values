@@ -105,3 +105,5 @@ id,food(labels),measure,calories,proteins,fat,carbs,notes
 104,[pizza dough/pizza khbza moyenne],s, 398, 14, 7.4, 69, ⓘ Values provided for a serving of 140g of pizza dough- as the one selled in supermarkets
 105, [sauce barbecue], g, 196, 0.65, 0.27, 47.8, ⓘ Values provided for 100g of Barbecue sauce
 106, [sauce tomate ketchup/ketchup], g, 122, 0.1, 28, 1, ⓘ Values provided for 100g of ketchup
+107, [kiwi/kiwi fruit], u, 42, 0.8, 0.4, 10, ⓘ Values provided for 1 unit (medium kiwi - ~75g)
+108, [myrtus communis/myrtle/mirti/blueberry], g, 150, 2, 1, 35, ⓘ Values provided for 100g (berries - approximate values)
