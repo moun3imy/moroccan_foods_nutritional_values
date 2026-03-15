@@ -136,7 +136,7 @@ id,food(labels),measure,calories,proteins,fat,carbs,notes
 135, [rfissa bread/msemen kbir], u, 250, 6, 10, 35, ⓘ Values provided for 1 large piece (used in rfissa)
 136, [cheese spread/kiri], u, 40, 1.5, 3.5, 1, ⓘ Values provided for 1 portion (20g)
 137, [dried meat/gaddid/khli3], g, 450, 30, 35, 2, ⓘ Values provided for 100g (Moroccan preserved dried meat - خليع)
-138, [ramen], s, 528, 21.34, 69.5, ⓘ Values provided for a serving of Ramen nouilles brand of 120g
+138, [ramen], s, 528, 13, 21.34, 69.5, ⓘ Values provided for a serving of Ramen nouilles' brand of 120g
 139, [sauce soja/soy sauce], ml, 53, 8, 0.1, 4.9, ⓘ Values provided for 100ml (fermented soybean sauce - used in Ramen)
 140, [9o9/9rni3/artichoke], g, 47, 3.3, 0.2, 10.5, ⓘ Values provided for 100g (raw artichoke heart)
 141, [dnjan/aubergine/eggplant], g, 25, 1, 0.2, 6, ⓘ Values provided for 100g (raw eggplant)
