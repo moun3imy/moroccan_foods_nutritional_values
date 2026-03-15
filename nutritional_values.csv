@@ -137,3 +137,13 @@ id,food(labels),measure,calories,proteins,fat,carbs,notes
 136, [cheese spread/kiri], u, 40, 1.5, 3.5, 1, ⓘ Values provided for 1 portion (20g)
 137, [dried meat/gaddid/khli3], g, 450, 30, 35, 2, ⓘ Values provided for 100g (Moroccan preserved dried meat - خليع)
 138, [ramen], s, 528, 21.34, 69.5, ⓘ Values provided for a serving of Ramen nouilles brand of 120g
+139, [sauce soja/soy sauce], ml, 53, 8, 0.1, 4.9, ⓘ Values provided for 100ml (fermented soybean sauce - used in Ramen)
+140, [9o9/9rni3/artichoke], g, 47, 3.3, 0.2, 10.5, ⓘ Values provided for 100g (raw artichoke heart)
+141, [dnjan/aubergine/eggplant], g, 25, 1, 0.2, 6, ⓘ Values provided for 100g (raw eggplant)
+142, [kapi/flfla 7mra/7ror 7mr/bell pepper], u, 31, 1.2, 0.3, 6, ⓘ Values provided for 1 medium bell pepper (~120g)
+143, [maticha cerise/cherry tomato], u, 3, 0.2, 0.03, 0.7, ⓘ Values provided for 1 piece (small - ~15g)
+144, [flfla 7arra 7mra/startir/chili pepper], u, 2, 0.1, 0.02, 0.4, ⓘ Values provided for 1 piece (small hot chili - ~5g)
+145, [loubia che3ra/che3ra/green beans], g, 31, 1.8, 0.2, 7, ⓘ Values provided for 100g (raw green beans)
+146, [kr3in ghnmi/lamb feet], g, 200, 17, 14, 0, ⓘ Values provided for 100g (cooked - rich in collagen and gelatin)
+147, [kr3in 3jl/veal feet], g, 180, 16, 12, 0, ⓘ Values provided for 100g (cooked - rich in collagen and gelatin)
+148, [sauce soja sucree/sweet soy sauce], ml, 200, 3, 0, 46, ⓘ Values provided for 100ml (sweetened soy sauce - kecap manis)
