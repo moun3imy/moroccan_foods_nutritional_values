@@ -147,4 +147,4 @@ id,food(labels),measure,calories,proteins,fat,carbs,notes
 146, [kr3in ghnmi/lamb feet], g, 200, 17, 14, 0, ⓘ Values provided for 100g (cooked - rich in collagen and gelatin)
 147, [kr3in 3jl/veal feet], g, 180, 16, 12, 0, ⓘ Values provided for 100g (cooked - rich in collagen and gelatin)
 148, [sauce soja sucree/sweet soy sauce], ml, 200, 3, 0, 46, ⓘ Values provided for 100ml (sweetened soy sauce - kecap manis)
-149, [crepe_nutella_banana],s,247,5.2,7.7,39.5,"Estimate for 1 crêpe with 1 tbsp Nutella + 1/2 banana. Not from original dataset."
+149, [crepe_nutella_banana],s,247,5.2,7.7,39.5,ⓘ Values provided for 1 crêpe with 1 tbsp Nutella + 1/2 banana. Not from original dataset.
